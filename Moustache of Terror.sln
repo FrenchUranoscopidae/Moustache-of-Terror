@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moustache of Terror", "NavMeshComponents.csproj", "{454D6CEA-D18E-00DC-63E3-DE33FF67A83B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moustache of Terror", "Assembly-CSharp.csproj", "{3EE8AFDB-BB1E-0658-A970-BA26CB0F6A26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moustache of Terror", "NavMeshComponentsEditor.csproj", "{F0FC07F3-DCEA-38F5-A377-CD8011354200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{454D6CEA-D18E-00DC-63E3-DE33FF67A83B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454D6CEA-D18E-00DC-63E3-DE33FF67A83B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454D6CEA-D18E-00DC-63E3-DE33FF67A83B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454D6CEA-D18E-00DC-63E3-DE33FF67A83B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EE8AFDB-BB1E-0658-A970-BA26CB0F6A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE8AFDB-BB1E-0658-A970-BA26CB0F6A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE8AFDB-BB1E-0658-A970-BA26CB0F6A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE8AFDB-BB1E-0658-A970-BA26CB0F6A26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0FC07F3-DCEA-38F5-A377-CD8011354200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0FC07F3-DCEA-38F5-A377-CD8011354200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0FC07F3-DCEA-38F5-A377-CD8011354200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0FC07F3-DCEA-38F5-A377-CD8011354200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

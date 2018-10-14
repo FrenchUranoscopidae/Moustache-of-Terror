@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <component name="ModuleManager">
+    <modules>
+      <module name="Moustache of Terror" dirurl="file://$PROJECT_DIR$" current-layer="Default">
+        <module-layer name="Default">
+          <extension id="unity3d" sdk-module-name="" sdk-name="Unity3D 2018.1.0 (predefined)">
+            <define>UNITY_EDITOR</define>
+            <define>DEBUG</define>
+            <define>TRACE</define>
+          </extension>
+          <content url="file://$MODULE_DIR$">
+            <content-folder type="EXCLUDED" url="file://$MODULE_DIR$/.consulo" />
+            <content-folder type="EXCLUDED" url="file://$MODULE_DIR$/Library" />
+            <content-folder type="EXCLUDED" url="file://$MODULE_DIR$/Temp" />
+            <content-folder type="EXCLUDED" url="file://$MODULE_DIR$/test_Data" />
+          </content>
+          <orderEntry type="sourceFolder" />
+        </module-layer>
+      </module>
+      <module name="Assembly-CSharp-firstpass" current-layer="Default">
+        <module-layer name="Default">
+          <extension id="unity3d-child" />
+          <extension id="unity3d-csharp-child" unsafe-code="false" language-version-name="_6_0" />
+          <orderEntry type="sourceFolder" />
+          <orderEntry type="dot-net-library" name="mscorlib" />
+          <orderEntry type="dot-net-library" name="UnityEditor" />
+          <orderEntry type="dot-net-library" name="UnityEngine" />
+          <orderEntry type="dot-net-library" name="UnityEngine.UI" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Networking" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Analytics" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Advertisements" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Purchasing" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Timeline" />
+          <orderEntry type="dot-net-library" name="System" />
+          <orderEntry type="dot-net-library" name="System.Core" />
+          <orderEntry type="dot-net-library" name="System.Runtime.Serialization" />
+          <orderEntry type="dot-net-library" name="System.Xml" />
+          <orderEntry type="dot-net-library" name="System.Xml.Linq" />
+        </module-layer>
+      </module>
+      <module name="Assembly-UnityScript-firstpass" current-layer="Default">
+        <module-layer name="Default">
+          <extension id="unity3d-child" />
+          <extension id="unity3d-unityscript-child" />
+          <orderEntry type="sourceFolder" />
+          <orderEntry type="dot-net-library" name="mscorlib" />
+          <orderEntry type="dot-net-library" name="UnityEditor" />
+          <orderEntry type="dot-net-library" name="UnityEngine" />
+          <orderEntry type="dot-net-library" name="UnityEngine.UI" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Networking" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Analytics" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Advertisements" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Purchasing" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Timeline" />
+          <orderEntry type="dot-net-library" name="System" />
+          <orderEntry type="dot-net-library" name="System.Core" />
+          <orderEntry type="dot-net-library" name="System.Runtime.Serialization" />
+          <orderEntry type="dot-net-library" name="System.Xml" />
+          <orderEntry type="dot-net-library" name="System.Xml.Linq" />
+        </module-layer>
+      </module>
+      <module name="Assembly-CSharp-Editor" current-layer="Default">
+        <module-layer name="Default">
+          <extension id="unity3d-child" />
+          <extension id="unity3d-csharp-child" unsafe-code="false" language-version-name="_6_0" />
+          <extension id="unity3d-nunit-child" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs.meta" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs.meta" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/NavMeshComponents/Editor/NavMeshModifierEditor.cs" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/NavMeshComponents/Editor/NavMeshModifierEditor.cs.meta" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/NavMeshComponents/Editor/NavMeshModifierVolumeEditor.cs" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/NavMeshComponents/Editor/NavMeshModifierVolumeEditor.cs.meta" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/NavMeshComponents/Editor/NavMeshSurfaceEditor.cs" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/NavMeshComponents/Editor/NavMeshSurfaceEditor.cs.meta" />
+          <orderEntry type="sourceFolder" />
+          <orderEntry type="module" module-name="Assembly-UnityScript-firstpass" />
+          <orderEntry type="module" module-name="Assembly-CSharp-firstpass" />
+          <orderEntry type="module" module-name="Assembly-CSharp" />
+          <orderEntry type="dot-net-library" name="UnityEditor.Graphs" />
+          <orderEntry type="dot-net-library" name="UnityEditor.UI" />
+          <orderEntry type="dot-net-library" name="nunit.framework" />
+          <orderEntry type="dot-net-library" name="UnityEditor.Timeline" />
+          <orderEntry type="dot-net-library" name="mscorlib" />
+          <orderEntry type="dot-net-library" name="UnityEditor" />
+          <orderEntry type="dot-net-library" name="UnityEngine" />
+          <orderEntry type="dot-net-library" name="UnityEngine.UI" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Networking" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Analytics" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Advertisements" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Purchasing" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Timeline" />
+          <orderEntry type="dot-net-library" name="System" />
+          <orderEntry type="dot-net-library" name="System.Core" />
+          <orderEntry type="dot-net-library" name="System.Runtime.Serialization" />
+          <orderEntry type="dot-net-library" name="System.Xml" />
+          <orderEntry type="dot-net-library" name="System.Xml.Linq" />
+          <orderEntry type="module-library" exported="">
+            <library>
+              <binaries>
+                <root url="netdll://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/MeshPainter/Editor/MeshPainter.dll!/" />
+              </binaries>
+            </library>
+          </orderEntry>
+        </module-layer>
+      </module>
+      <module name="Assembly-CSharp" current-layer="Default">
+        <module-layer name="Default">
+          <extension id="unity3d-child" />
+          <extension id="unity3d-csharp-child" unsafe-code="false" language-version-name="_6_0" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/NavMeshComponents/Scripts/NavMeshLink.cs" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/NavMeshComponents/Scripts/NavMeshLink.cs.meta" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/NavMeshComponents/Scripts/NavMeshModifier.cs" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/NavMeshComponents/Scripts/NavMeshModifier.cs.meta" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/NavMeshComponents/Scripts/NavMeshModifierVolume.cs" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/NavMeshComponents/Scripts/NavMeshModifierVolume.cs.meta" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/NavMeshComponents/Scripts/NavMeshSurface.cs" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/NavMeshComponents/Scripts/NavMeshSurface.cs.meta" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/Scripts/GUI.cs" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/Scripts/GUI.cs.meta" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/Scripts/MainMenu.cs" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/Scripts/MainMenu.cs.meta" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/Scripts/Moustache.cs" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/Scripts/Moustache.cs.meta" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/Scripts/PauseMenu.cs" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/Scripts/PauseMenu.cs.meta" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/Scripts/Player.cs" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/Scripts/Player.cs.meta" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/Scripts/Smoke.cs" />
+          <content url="file://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/Scripts/Smoke.cs.meta" />
+          <orderEntry type="sourceFolder" />
+          <orderEntry type="module" module-name="Assembly-UnityScript-firstpass" />
+          <orderEntry type="module" module-name="Assembly-CSharp-firstpass" />
+          <orderEntry type="dot-net-library" name="mscorlib" />
+          <orderEntry type="dot-net-library" name="UnityEditor" />
+          <orderEntry type="dot-net-library" name="UnityEngine" />
+          <orderEntry type="dot-net-library" name="UnityEngine.UI" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Networking" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Analytics" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Advertisements" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Purchasing" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Timeline" />
+          <orderEntry type="dot-net-library" name="System" />
+          <orderEntry type="dot-net-library" name="System.Core" />
+          <orderEntry type="dot-net-library" name="System.Runtime.Serialization" />
+          <orderEntry type="dot-net-library" name="System.Xml" />
+          <orderEntry type="dot-net-library" name="System.Xml.Linq" />
+          <orderEntry type="module-library" exported="">
+            <library>
+              <binaries>
+                <root url="netdll://$USER_HOME$/Documents/Programmation/Moustache of Terror/Assets/MeshPainter/Editor/MeshPainter.dll!/" />
+              </binaries>
+            </library>
+          </orderEntry>
+        </module-layer>
+      </module>
+    </modules>
+  </component>
+</project>
